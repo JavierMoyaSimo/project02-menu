@@ -1,6 +1,5 @@
 ## Carta de Restaurante
-![Hola]
-
+Hola!
 👋 Soy Javier Moya.</br>
 💻 Soy un FullStack Developer en  <kbd>⇥</kbd>   <img src="./img/GHA.png" width="130em" /></br>
 
